@@ -1,3 +1,19 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+# Hello World!
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeodorDevios&theme=merko)](https://git.io/streak-stats)
+## Кто я?
+Меня зовут Степан, мне 17 лет. 
+## О себе
+- Живу в Воронеже
+- Играю на гитаре
+- Увлекаюсь разработкой около 3х лет
+## Мои навыки
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDevios&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+#### - Frontend разработка: 
+-- React
+-- CSS
+-- HTML
+-- TypeScript
+#### - Дизайн:
+-- Figma
+#### - Backend: 
+-- Python Flask
