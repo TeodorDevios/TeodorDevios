@@ -18,17 +18,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDevios&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-#### - Frontend разработка: 
+#### - _Frontend_: 
 
 - React
 - CSS
 - HTML
 - TypeScript 
 
-#### - Дизайн:
+#### - _Дизайн_:
 
 - Figma
 
-#### - Backend: 
+#### - _Backend_: 
 
 - Python Flask
+
+Ну и закончим прекрасной шуткой =3
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
