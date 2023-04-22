@@ -4,18 +4,23 @@
 Меня зовут Степан, мне 17 лет. 
 ## О себе
 
-- У нас есть DevOps
-- Степа молодец
-- У нас все хорошо
+- Живу в Воронеже
+- Играю на гитаре
+- Увлекаюсь разработкой около 3х лет
 
 ##Мои навыки
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDevios&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 #### - Frontend разработка: 
-⋅⋅*React
-⋅⋅*CSS
-⋅⋅*HTML
-⋅⋅*TypeScript
+
+-- React
+-- CSS
+-- HTML
+-- TypeScript 
+
 #### - Дизайн:
-⋅⋅*Figma
+
+-- Figma
+
 #### - Backend: 
-⋅⋅*Python Flask
+
+-- Python Flask
