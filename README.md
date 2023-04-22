@@ -1,7 +1,12 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 # Hello World!
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeodorDevios&theme=merko)](https://git.io/streak-stats)
+
 ## Кто я?
-Меня зовут Степан, мне 17 лет. 
+Меня зовут Степан, мне 17 лет.
+
 ## О себе
 
 - Живу в Воронеже
@@ -11,6 +16,7 @@
 ## Мои навыки
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDevios&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 #### - Frontend разработка: 
 
 - React
@@ -25,5 +31,3 @@
 #### - Backend: 
 
 - Python Flask
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TeodorDevios&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
