@@ -8,13 +8,13 @@
 
 Меня зовут Степан, мне 17 лет.
 
-## О себе
+## О себе:
 
 - Живу в Воронеже
 - Играю на гитаре
 - Увлекаюсь разработкой около 3х лет
 
-## Мои навыки
+## Мои навыки:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDevios&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
